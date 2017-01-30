@@ -1,0 +1,52 @@
+*{
+	margin:0px auto;
+	padding:0px;
+	
+}.main
+{
+	width:auto;
+}
+.header
+{
+	width:auto;
+	height:150px;
+	background:#3300CC;
+}
+.header p
+{
+	line-height:150px;
+	text-align:center;
+	font-size:70px;
+	font-weight:bolder;
+}
+.Content
+{
+	width:auto;
+	height:500px;
+	background:#999999;
+}
+.link
+{
+	font-size:24px;
+	font-weight:bold;
+}
+.a
+{
+	width:315px;
+	height:200px;
+	background:#FF3300;
+	border:1px solid #000;
+	box-shadow:4px 4px 4px #000;
+	border-radius:4px;
+	margin:250px auto;
+	line-height:80px;
+}
+.a table
+{
+	margin-top:10px;
+}
+#userdetails{
+	padding-left: 150px;
+	font-size: 36px;
+	font-weight: bold;
+}
